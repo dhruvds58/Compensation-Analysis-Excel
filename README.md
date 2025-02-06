@@ -56,30 +56,16 @@ This project extensively used **advanced Excel functions** to transform raw data
   - **Recalculate total compensation & bonus allocations dynamically**.
 - This **eliminated manual recalculations**, improving efficiency.
 
-### ✅ **Excel Solver for Bonus Optimization**
-- Used **Solver** to **redistribute bonuses based on budget constraints**.
-- Ensured **high-performing employees receive fairer incentives**.
-- Solver optimized:
-  - **Total bonuses stay within company limits**.
-  - **Bonus percentage per employee does not exceed 20%**.
-  - **No employee receives a negative bonus adjustment**.
-
-### ✅ **Scenario Analysis for HR Decision-Making**
-- Developed **"What-If" Analysis** using **Data Tables**:
-  - **Simulated salary hikes** (e.g., **5% vs. 10% increase**).
-  - **Analyzed different bonus distribution models**.
-  - **Modeled salary adjustments based on inflation**.
-
 ---
 
 ## 4. Key Insights & Recommendations
 The **Compensation Dashboard** provided **clear, data-driven insights** for HR teams:
 
-👌 **30% of employees were underpaid compared to industry benchmarks.**  
-👌 **IT & Finance departments had the highest total compensation.**  
-👌 **Marketing had the most uneven bonus distribution.**  
-👌 **Adjusting base salaries by 5% would align 80% of employees with market rates.**  
-👌 **Implementing an optimized bonus structure would improve retention & motivation.**  
+👍 **30% of employees were underpaid compared to industry benchmarks.**  
+👍 **IT & Finance departments had the highest total compensation.**  
+👍 **Marketing had the most uneven bonus distribution.**  
+👍 **Adjusting base salaries by 5% would align 80% of employees with market rates.**  
+👍 **Implementing an optimized bonus structure would improve retention & motivation.**  
 
 ---
 
